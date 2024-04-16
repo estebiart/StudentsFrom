@@ -1,0 +1,11 @@
+form{
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+}
+body {
+  background-color: lightblue;
+  justify-content: center;
+  background-image: linear-gradient(hsla(155, 50%, 95%, 0.85), hsl(240, 14%, 97%));
+  border-radius: 30% 70% 70% 30% / 30% 30% 70% 70%;
+}
